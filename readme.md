@@ -1,5 +1,33 @@
 # STOCK MANAGEMENT API
 
+#user_stories:
+```
+
+---> model, controller, router
+-- sira ile yapali,
+ -- bir colelctioni alan model, controller, router kisimlarini tam yapsin
+ -- bir collectioni aldiysaniz karsina isminiz ve inprogress yazarsaniz iyi olur
+-- kendi branchinizde calisiniz deve pull request isteyiniz
+-- maine push yapmayalim devede sadece pull request ile ekleme yapalim
+
+- user
+- token
+- auth
+- brand
+- category
+- firm
+- product
+- purchase
+- sale
+
+```
+
+
+
+
+
+
+
 ### ERD:
 
 ![ERD](./erdStockAPI.png)
