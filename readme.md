@@ -10,15 +10,19 @@
 -- kendi branchinizde calisiniz deve pull request isteyiniz
 -- maine push yapmayalim devede sadece pull request ile ekleme yapalim
 
-- user
-- token
-- auth
-- brand
-- category
-- firm
-- product
-- purchase
-- sale
+
+                  dev          status
+_________________________________________
+- user      -   ibrsec   -   inprogress |
+- token     -   ibrsec   -   inprogress |
+- auth      -                           |
+- brand     -                           |
+- category  -                           |
+- firm      -                           |
+- product   -                           |
+- purchase  -                           |
+- sale      -                           |
+_________________________________________
 
 ```
 
