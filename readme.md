@@ -3,12 +3,12 @@
 #user_stories:
 ```
 
----> model, controller, router
--- sira ile yapali,
- -- bir colelctioni alan model, controller, router kisimlarini tam yapsin
- -- bir collectioni aldiysaniz karsina isminiz ve inprogress yazarsaniz iyi olur
--- kendi branchinizde calisiniz deve pull request isteyiniz
--- maine push yapmayalim devede sadece pull request ile ekleme yapalim
+
+- maine  ve dev'e pushlamayalim
+- kendi branchimiz ile calisip conflictleri giderip deve pr isteyelim
+- bir collectioni aldiysaniz karsina isminiz ve inprogress yazarsaniz iyi olur
+- bir colelctioni alan model, controller, router kisimlarini tam yapsin
+- asagidaki siaraya gore alip yapalim
 
 
                   dev          status
